@@ -4,8 +4,8 @@ window.isTerraExtensionAvailable = true
 // for multiple extension support
 // ---------------------------------------------
 const TERRA_STATION_INFO = {
-  name: "Terra Station Wallet",
-  identifier: "station",
+  name: "Trophy Wallet",
+  identifier: "trophy",
   icon: "https://assets.terra.money/icon/station-extension/icon.png",
 }
 
