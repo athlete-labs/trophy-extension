@@ -1,25 +1,22 @@
-# Terra Station Wallet extension
+# Trophy Wallet extension
 
-![Banner](Banner.png)
+**Trophy Wallet extension** is a browser extension to interact with [Athlete Core](https://github.com/athlete-labs/core).
 
-**Terra Station Wallet extension** is a browser extension to interact with [Terra Core](https://github.com/terra-money/core).
-
-Terra Station Wallet extension allows users to:
+Trophy Wallet extension allows users to:
 
 - View the balances and values of coins and tokens held in the connected wallet.
 - View a list of transactions signed by the connected wallet.
-- Send tokens to another Terra wallet.
-- Swap currencies on the Terra network at the effective exchange rate.
+- Send tokens to another wallet.
 
 ## Building Terra Station Wallet extension
 
 This project was bootstrapped with [Create React App](https://create-react-app.dev/).
 
-Build Terra Station Wallet extension with the following commands:
+Build Trophy Wallet extension with the following commands:
 
 ```
-git clone https://github.com/terra-money/station-extension.git
-cd station-extension
+git clone https://github.com/athlete-labs/trophy-extension.git
+cd trophy-extension
 npm i
 npm run build
 ```
