@@ -8,7 +8,7 @@ Trophy Wallet extension allows users to:
 - View a list of transactions signed by the connected wallet.
 - Send tokens to another wallet.
 
-## Building Terra Station Wallet extension
+## Building Trophy Station Wallet extension
 
 This project was bootstrapped with [Create React App](https://create-react-app.dev/).
 
