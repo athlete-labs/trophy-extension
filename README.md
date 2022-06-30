@@ -10,7 +10,8 @@ Trophy Wallet extension allows users to:
 
 ## Building Trophy Station Wallet extension
 
-This project was bootstrapped with [Create React App](https://create-react-app.dev/).
+This project was bootstrapped with [Create React App](https://create-react-app.dev/). 
+Based on https://github.com/terra-money/station-extension.git
 
 Build Trophy Wallet extension with the following commands:
 
